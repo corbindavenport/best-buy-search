@@ -2,7 +2,7 @@
 
 This extension adds [Best Buy](https://www.bestbuy.com/) as a search engine option for Firefox. You can use the `bb` keyword in the address bar to search something at Best Buy, or click the Best Buy logo in list of search engines.
 
-[![Download for Firefox](https://corbin.io/img/firefox-button.png)](https://addons.mozilla.org/)
+[![Download for Firefox](https://corbin.io/img/firefox-button.png)](https://addons.mozilla.org/en-US/firefox/addon/best-buy-search/)
 
 This extension is in no way affiliated with Best Buy. Best Buy logo comes from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Best_Buy_Logo.svg).
 
